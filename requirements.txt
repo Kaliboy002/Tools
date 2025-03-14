@@ -1,3 +1,5 @@
 telebot
 colorama
 requests
+Crypto
+pycryptodome
